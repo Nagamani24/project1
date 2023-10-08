@@ -1,7 +1,6 @@
 <template>
      <div class="flex flex-col mb-2 p-4">
                 <div v-if="!open" class="flex items-center">
-                    <i class="fab fa-font-awesome"></i>
                     <img src="https://play-lh.googleusercontent.com/y2Od7hvKRSTHUt4U-hTOFSp6clrrNK7JXGxjYur6ffCOypJpEcRX2HSRIgbuwjWPv54" class="h-8 w-8 m-3" />
                     <p  @click="open=!open">https://youtu.be/JieVY0q1Ypg</p>
                 </div>

@@ -16,5 +16,5 @@
     
 </template>
 <script lang="ts" setup>
-const subjects=['Physics','Chemistry','BEE']
+const subjects=['Physics','Chemistry','BEE','English']
 </script>
